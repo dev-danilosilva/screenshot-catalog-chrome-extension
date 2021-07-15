@@ -1,0 +1,8 @@
+{
+  "name": "screenshot-catalog-chrome-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dev-danilosilva/screenshot-catalog-chrome-extension.git",
+  "author": "<dev.danilosilva@gmail.com>",
+  "license": "MIT"
+}
